@@ -28,7 +28,7 @@
  * ======================================================================================= */
 
 // --- STATUS LED (Output) ---
-// LED noi vao chan so 19 cua chip (PB5/SCK)
+// LED noi vao chan so 19 cua chip (PB5/SCK))
 #define LED_DDR     DDRB
 #define LED_PORT    PORTB
 #define LED_PIN     PB5  
